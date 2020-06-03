@@ -9,17 +9,24 @@ li {
 
 .wrapper {
   margin: auto;
-  width: 60%;
+  width: 50%;
   padding: 10px;
   text-align: center;
 }
 
+.js-weather {
+  font-size: 20px;
+  color: white;
+}
+
 .js-clock {
   font-size: 50px;
+  color: white;
 }
 
 .js-toDoList {
   width: 300px;
+  color: white;
 }
 
 .form,
@@ -29,6 +36,7 @@ li {
 
 .greetings {
   font-size: 30px;
+  color: white;
 }
 
 .showing {
